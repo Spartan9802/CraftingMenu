@@ -1,0 +1,28 @@
+#CraftingMenu:
+#    '1':
+#      Name: My sword
+#      Material: DIAMOND_SWORD
+#      Lore:
+#        - ''
+#        - 'My diamond sword is very cool !'
+#    '2':
+#      Name: My sword
+#      Material: DIAMOND_SWORD
+#      Lore:
+#        - ''
+#        - 'My diamond sword is very cool !'
+#    '3':
+#      Name: My sword
+#      Material: DIAMOND_SWORD
+#      Lore:•
+#        - ''
+#        - 'My diamond sword is very cool !'
+#    '4':
+#      Material: DIAMOND_SWORD
+#    '0':
+#      Name: test
+#      Material: DIAMOND_AXE
+#      Lore:
+#      - test de lore
+#      - Nouvelle ligne
+

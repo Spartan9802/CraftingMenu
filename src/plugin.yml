@@ -1,0 +1,5 @@
+main: fr.worldcube.craftingmenu.main
+name: CraftingMenu
+author: Spartan9802
+version: 1.0
+depend: [ProtocolLib]
